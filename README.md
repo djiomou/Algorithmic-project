@@ -1,2 +1,2 @@
 # Algorithmic-project
-Building a R package for aligning protein or nucleotide sequences.
+Building a R package for sequence alignment
